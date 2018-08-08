@@ -1,5 +1,11 @@
 # node-builder Docker images
 
+[![dockeri.co](https://dockeri.co/image/mmarchini/node-builder)](https://registry.hub.docker.com/mmarchini/node-builder/)
+
+[![GitHub issues](https://img.shields.io/github/issues/mmarchini/docker-node-builder.svg "GitHub issues")](https://github.com/mmarchini/docker-node-builder/issues/)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/mmarchini/docker-node-builder.svg "GitHub PRs")](https://github.com/mmarchini/docker-node-builder/pulls/)
+[![GitHub stars](https://img.shields.io/github/stars/mmarchini/docker-node-builder.svg "GitHub stars")](https://github.com/mmarchini/docker-node-builder)
+
 Docker images with the toolchain required to build Node.js on Linux.
 
 ## Usage
